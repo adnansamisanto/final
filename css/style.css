@@ -986,7 +986,7 @@ svg {
     align-items: center;
     background-color: #383838;
     overflow: hidden;
-    margin-right: -105px;
+    margin-right: -135px;
     transition: 0.3s;
     border-radius: 2px;
 }
@@ -1022,7 +1022,7 @@ svg {
     color: #fff;
     padding: 10px 20px;
     cursor: pointer;
-    width: 100px;
+    width: 130px;
     height: 40px;
     display: grid;
     margin-top: 2px;
@@ -1187,6 +1187,7 @@ svg {
     height: 40px !important;
     object-fit: cover;
 }
+
 /* work process end */
 
 /* why you hire me  */
@@ -1262,7 +1263,7 @@ svg {
     bottom: 70px;
     right: 20px;
     border-radius: 50%;
-    z-index: 9999 !important;
+    z-index: 9999;
 }
 
 .go_top i {
