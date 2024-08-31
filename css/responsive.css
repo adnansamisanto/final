@@ -1,6 +1,18 @@
-@media screen and (max-width: 1500px) {
+@media screen and (max-width: 2000px) {
     #work_process .main_work_process {
         width: 100%;
+    }
+
+    .about_page .about_img_text .about_text_sec span p {
+        font-size: 1.1rem !important;
+    }
+
+    .about_page .about_img_text .about_text_sec h1 {
+        font-size: 2.3rem;
+    }
+
+    .about_page .about_img_text .about_text_sec p {
+        font-size: 2rem;
     }
 }
 
@@ -30,6 +42,18 @@
         width: 98%;
         padding: 1%;
         grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+    }
+
+    .about_page .about_img_text .about_text_sec span p {
+        font-size: 1rem !important;
+    }
+
+    .about_page .about_img_text .about_text_sec h1 {
+        font-size: 2rem;
+    }
+
+    .about_page .about_img_text .about_text_sec p {
+        font-size: 2rem;
     }
 }
 
