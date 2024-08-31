@@ -1261,7 +1261,7 @@ svg {
     bottom: 70px;
     right: 20px;
     border-radius: 50%;
-    z-index:9999;
+    z-index: 9999 !important;
 }
 
 .go_top i {
