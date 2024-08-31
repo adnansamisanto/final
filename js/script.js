@@ -48,7 +48,7 @@ document.querySelector('.icon_').addEventListener('click', function () {
     const icon_sub = document.getElementById('icon_sub');
 
     if (menu.style.opacity === '1') {
-        navbar.style.marginRight = "-105px"
+        navbar.style.marginRight = "-135px"
         navbar.style.paddingTop = "0px"
         navbar.style.paddingBottom = "0px"
         navbar.style.height = "50px"
@@ -77,7 +77,7 @@ document.querySelector('.icon_').addEventListener('click', function () {
     }
 
     document.getElementById('content_container').addEventListener("click", () => {
-        navbar.style.marginRight = "-105px"
+        navbar.style.marginRight = "-135px"
         navbar.style.paddingTop = "0px"
         navbar.style.paddingBottom = "0px"
         navbar.style.height = "50px"
