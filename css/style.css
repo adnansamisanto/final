@@ -1172,20 +1172,21 @@ svg {
 }
 
 .work_process_sec2 .img {
-    width: 80px;
-    height: 80px;
+    width: 90px;
+    height: 90px;
     border-radius: 50%;
     background-color: #ffffff;
     overflow: hidden;
     margin-bottom: 10px;
+    display: grid;
+    place-items: center;
 }
 
 .work_process_sec2 .img img {
-    width: 80px;
-    height: 80px;
+    width: 40px !important;
+    height: 40px !important;
     object-fit: cover;
 }
-
 /* work process end */
 
 /* why you hire me  */
